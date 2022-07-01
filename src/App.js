@@ -81,7 +81,6 @@ export default function App() {
     var Meaning = emojiDictionary[emojiName];
     setMeanging(Meaning);
   }
-
   return (
     <div className="App">
       <h1>Know your Emoji's</h1>
